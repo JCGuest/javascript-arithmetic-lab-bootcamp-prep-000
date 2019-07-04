@@ -27,7 +27,7 @@ function makeInt(n) {
 }
 
 function makeInt(n) {
-  return ('0x2328', 10)
+  return ('n', 10)
 }
 
 
